@@ -1,4 +1,4 @@
-Hi! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Ayush Gupta
+Hi 👋 my name is Ayush Gupta
 ===================================================================================================================================
 
 Honors CS Student at Rutgers University
@@ -8,7 +8,7 @@ I have developed an interest in Computer Science as I like programming and solvi
 
 * 🌍  I'm based in New Jersey
 * ✉️  You can contact me at [ayukgupta@gmail.com](mailto:ayukgupta@gmail.com)
-* 🧠  I'm learning Angular
+* 🧠  I'm currently learning Angular
 * 🤝  I'm open to collaborating on Projects
 * ⚡  Interests: Basketball, Skateboarding, Guitar, Weightlifting, Cars, Music, Traveling, Video Games
 
