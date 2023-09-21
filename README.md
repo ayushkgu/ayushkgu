@@ -6,7 +6,7 @@ Honors CS Student at Rutgers University
 
 I have developed an interest in Computer Science as I like programming and solving logical problems. I am proficient in programming languages such as Java and C++ and have experience with web development using Angular, ReactJS, HTML, CSS, and JavaScript. I also have experience using databases including SQL and Firebase. I am interested in applying my knowledge and gaining professional experience through Software Engineering internships.
 
-* 🌍  I'm based in New Jersey
+* 🌍  I'm from  New Jersey
 * ✉️  You can contact me at [ayukgupta@gmail.com](mailto:ayukgupta@gmail.com)
 * 🧠  I'm currently learning Angular
 * 🤝  I'm open to collaborating on Projects
