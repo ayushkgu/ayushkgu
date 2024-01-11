@@ -4,7 +4,13 @@ Hi 👋 my name is Ayush Gupta
 Honors CS Student at Rutgers University
 ---------------------------------------
 
-I have developed an interest in Computer Science as I like programming and solving logical problems. I am proficient in programming languages such as Java and C++ and have experience with web development using Angular, ReactJS, HTML, CSS, and JavaScript. I also have experience using databases including SQL and Firebase. I am interested in applying my knowledge and gaining professional experience through Software Engineering internships.
+Hello! I'm Ayush Gupta, a sophomore pursuing a B.S. Degree in Computer Science and a minor in Business Administration as part of the School of Arts & Sciences Honors Program at Rutgers University-New Brunswick. I am passionate about Computer Science as I like programming and solving logical problems. I am proficient in programming languages such as Java and C++ and have experience with web development using Angular, ReactJS, HTML, CSS, and JavaScript. I also have experience using databases including SQL, MongoDB, and Firebase. 
+
+I am currently working as a Software Engineering intern at Gibber, and I develop React components for our web application. As a Software Engineering Fellow at Headstarter, I created full-stack web applications and gained hands-on experience in various technologies. 
+
+At Rutgers, I serve as a Web Developer for BITS (Business Information Technology Society) where I design and develop the club’s website to communicate BITS events, updates, and relevant information. I also serve as the Treasurer for the RUSKY Yoga Club where I manage the club's finances, overseeing budgeting and financial transactions. 
+
+I am actively seeking Software Engineering internships for Summer 2024, where I can contribute to and learn from dynamic tech teams. If you have any questions, please feel free to connect with me!
 
 * 🌍  I'm from  New Jersey
 * ✉️  You can contact me at [ayukgupta@gmail.com](mailto:ayukgupta@gmail.com)
