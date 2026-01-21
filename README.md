@@ -9,6 +9,7 @@ Additionally, I am proficient in Java and C++, and well-versed in Object-Oriente
 
 Check out my personal website! 
 [ayushgupta.live](http://ayushgupta.live)
+
 ✉️  You can contact me at [ayukgupta@gmail.com](mailto:ayukgupta@gmail.com)
 
 ### Skills
