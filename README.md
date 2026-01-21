@@ -4,19 +4,11 @@ Hi 👋 my name is Ayush Gupta
 Honors CS Student at Rutgers University
 ---------------------------------------
 
-Hello! I'm Ayush Gupta, a junior pursuing a B.S. Degree in Computer Science as part of the School of Arts & Sciences Honors Program at Rutgers University-New Brunswick. I am passionate about Computer Science as I like programming and solving logical problems. Throughout my academic journey, I have gained hands-on experience as a Software Engineer through internships with companies such as Reorg Research, Dash Sports Network, and Headstarter AI, where I contributed to building scalable software solutions using a diverse tech stack, including ReactJS, Angular, Python, C#, .NET, AWS, Firebase, SQL Server, and MySQL. Additionally, I am proficient in Java and C++, and well-versed in Object-Oriented Programming principles, RESTful API development, and data pipeline engineering.
-
-At Rutgers, I’m a FIGS Computer Science Instructor for first-year students and a Resident Assistant (RA). I also serve as a Web Developer for BITS (Business Information Technology Society) where I design and develop the club’s website to communicate BITS events, updates, and relevant information and Treasurer for the RUSKY Yoga Club where I manage the club's finances, overseeing budgeting and financial transactions. 
-
-I am actively seeking Software Engineering internships for Summer 2025, where I can contribute to and learn from dynamic tech teams. If you have any questions, please feel free to connect with me!
+Hello! I'm Ayush Gupta, a recent graduate from the Honors College at Rutgers University– New Brunswick with a B.S. in Computer Science I am passionate about Computer Science as I like programming and solving logical problems. Throughout my academic journey, I have gained hands-on experience as a Software Engineer through internships with companies such as Bank of America Benco Dental, and Octus, where I contributed to building scalable software solutions using a diverse tech stack, including ReactJS, Angular, Python, C#, .NET, AWS, SQL Server. Additionally, I am proficient in Java and C++, and well-versed in Object-Oriented Programming principles, RESTful API development, and data pipeline engineering.
 
 Check out my personal website! 
 [ayushgupta.live](http://ayushgupta.live)
-* 🌍  I'm from  New Jersey
 * ✉️  You can contact me at [ayukgupta@gmail.com](mailto:ayukgupta@gmail.com)
-* 🧠  I'm currently learning Angular
-* 🤝  I'm open to collaborating on Projects
-* ⚡  Interests: Basketball, Skateboarding, Guitar, Weightlifting, Cars, Music, Traveling, Video Games
 
 ### Skills
 
