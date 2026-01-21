@@ -1,9 +1,11 @@
 Hi 👋 my name is Ayush Gupta
 ===================================================================================================================================
 
-I'm a recent graduate from the Honors College at Rutgers University– New Brunswick with a B.S. in Computer Science I am passionate about Computer Science as I like programming and solving logical problems. 
+I'm a recent graduate from the Honors College at Rutgers University– New Brunswick with a B.S. in Computer Science.
 
-Throughout my academic journey, I have gained hands-on experience as a Software Engineer through internships with companies such as Bank of America Benco Dental, and Octus, where I contributed to building scalable software solutions using a diverse tech stack, including ReactJS, Angular, Python, C#, .NET, AWS, SQL Server. Additionally, I am proficient in Java and C++, and well-versed in Object-Oriented Programming principles, RESTful API development, and data pipeline engineering.
+Throughout my academic journey, I have gained hands-on experience as a Software Engineer through internships with companies such as Bank of America Benco Dental, and Octus, where I contributed to building scalable software solutions using a diverse tech stack, including ReactJS, Angular, Python, C#, .NET, AWS, SQL Server. 
+
+Additionally, I am proficient in Java and C++, and well-versed in Object-Oriented Programming principles, RESTful API development, and data pipeline engineering.
 
 Check out my personal website! 
 [ayushgupta.live](http://ayushgupta.live)
@@ -13,7 +15,15 @@ Check out my personal website!
 
 
 <p align="left">
-<a href="https://angular.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angular-colored.svg" width="36" height="36" alt="Angular" /></a>
+<a href="https://angular.dev/" target="_blank" rel="noreferrer">
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"
+    width="36"
+    height="36"
+    alt="Angular"
+  />
+</a>
+
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
