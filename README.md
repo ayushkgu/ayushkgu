@@ -1,10 +1,9 @@
 Hi 👋 my name is Ayush Gupta
 ===================================================================================================================================
 
-Honors CS Student at Rutgers University
----------------------------------------
+I'm a recent graduate from the Honors College at Rutgers University– New Brunswick with a B.S. in Computer Science I am passionate about Computer Science as I like programming and solving logical problems. 
 
-Hello! I'm Ayush Gupta, a recent graduate from the Honors College at Rutgers University– New Brunswick with a B.S. in Computer Science I am passionate about Computer Science as I like programming and solving logical problems. Throughout my academic journey, I have gained hands-on experience as a Software Engineer through internships with companies such as Bank of America Benco Dental, and Octus, where I contributed to building scalable software solutions using a diverse tech stack, including ReactJS, Angular, Python, C#, .NET, AWS, SQL Server. Additionally, I am proficient in Java and C++, and well-versed in Object-Oriented Programming principles, RESTful API development, and data pipeline engineering.
+Throughout my academic journey, I have gained hands-on experience as a Software Engineer through internships with companies such as Bank of America Benco Dental, and Octus, where I contributed to building scalable software solutions using a diverse tech stack, including ReactJS, Angular, Python, C#, .NET, AWS, SQL Server. Additionally, I am proficient in Java and C++, and well-versed in Object-Oriented Programming principles, RESTful API development, and data pipeline engineering.
 
 Check out my personal website! 
 [ayushgupta.live](http://ayushgupta.live)
